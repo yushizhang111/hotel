@@ -1,0 +1,92 @@
+{
+   "location": "Sydney",
+   "location_coordinates": [
+      -33.8696,
+      151.207
+   ],
+   "total_count": 379,
+   "count": 20,
+   "filtered_count": 369,
+   "current_page": 1,
+   "per_page": 20,
+   "rates": null,
+   "districts": [
+      {
+         "id": 60,
+         "name": "City Centre"
+      },
+      { … },
+      {
+         "id": 8588,
+         "name": "Milsons Point"
+      }
+   ],
+   "hotels": [
+      {
+         "id": 273451,
+         "name": "InterContinental Sydney",
+         "address": "117 Macquarie St, cnr of Bridge and Phillip",
+         "districts": [
+            51,
+            60
+         ],
+         "latitude": -33.863056,
+         "longitude": 151.21222,
+         "property_type": 1,
+         "brand_id": 134,
+         "searched": null,
+         "desc": "Overlooking the worlds most stunning harbour, this Sydney hotel is a true expression of luxury. Guests can enjoy picturesque views from contemporary suites or the heated indoor swimming pool on the 31st floor. Experience one of the finest restaurants in Sydney at Cafe Opera, serving European and Australian cuisine made from fresh local produce. Near the hotel, explore the The Rocks, stroll through the Royal Botanic Gardens or browse the designer boutiques at the Queen Victoria Building.",
+         "stars": 5,
+         "map": true,
+         "room_rates": [
+            {
+               "id": "320-1",
+               "price_str": "282",
+               "currency_code": "USD",
+               "currency_sym": "US$",
+               "provider_name": "Elvoline",
+               "provider_code": "elvoline.com",
+               "ex_tax": false,
+               "is_direct": false
+            },
+            { … },
+            {
+               "id": "324-1",
+               "price_str": "342",
+               "currency_code": "USD",
+               "currency_sym": "US$",
+               "provider_name": "HotelPronto",
+               "provider_code": "hotelpronto.com",
+               "ex_tax": false,
+               "is_direct": false
+            }
+         ],
+         "summary_room_rates": { ... },	
+         "room_rates_count": 7,
+         "room_rate_min": {
+            "id": "320-1",
+            "price_str": "282",
+            "currency_code": "USD",
+            "currency_sym": "US$",
+            "provider_name": "Elvoline",
+            "provider_code": "elvoline.com",
+            "ex_tax": false,
+            "is_direct": false
+         },
+         "total_reviews": 1802,
+         "rooms_count": 470,
+         "rank": 1,
+         "satisfaction": 84,
+         "satisfaction_description": Excellent,
+         "url": "/hotels/australia/sydney/intercontinental-sydney-273451",
+         "offer": {
+            "id": 1273,
+            "title": "IHG Special - up to 25% off",
+            "ga_offer_type": "percent off room rate",
+            "marketing_message_50": "Book now and save up to 25%!"
+         },
+         "image": "http://cdn.wego.com/gazo/23/aa89ddc7446bba86a5980603b6db32d6c95c36e9/1359400_B.jpg"
+      },
+      { … }
+   ]
+}
